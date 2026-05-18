@@ -43,4 +43,4 @@ A defensive monitoring script for suspicious Active Directory activity.
 ## 📫 Connect With Me
 
 - GitHub: [@cerealkillaaa](https://github.com/cerealkillaaa)
-- Website: getjynxd.com
+- Website: https://getjynxd.com
