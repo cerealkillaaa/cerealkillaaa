@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&width=900&lines=Systems+Administrator;Cybersecurity+Researcher;PowerShell+Developer;Digital+Investigator;Building+Cool+Things)](https://git.io/typing-svg)
+
 # Hey, I'm Erika 👋
 
 ### IT Support | Systems Admin | Cybersecurity | Digital Investigations
