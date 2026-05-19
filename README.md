@@ -26,7 +26,7 @@ A collection of scripts for user management, offboarding, reporting, and IT auto
 ### 📊 M365 License Optimization Dashboard
 A PowerShell-based dashboard for reviewing Microsoft 365 license usage and savings opportunities.
 
-### 🛡️ AD Attack Monitor
+### 🛡️ AD Attack Auditor
 A defensive monitoring script for suspicious Active Directory activity.
 
 ---
