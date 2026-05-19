@@ -18,4 +18,37 @@
 Name: Erika Kramer
 Role: IT Support | Systems Admin | Cybersecurity | Digital Builder
 Focus: PowerShell tools, Microsoft 365, security, automation, and web design
-Brand: Jynxd
+
+// FEATURED PROJECTS
+M365 License Optimization Dashboard
+
+A PowerShell reporting dashboard for finding unused, underused, and misassigned Microsoft 365 licenses.
+
+PowerShell M365 HTML Dashboard CSV Reports
+
+AD Attack Monitor
+
+A defensive monitoring tool for suspicious Active Directory behavior and account activity.
+
+PowerShell Active Directory Security Monitoring
+
+Offboarding Monster
+
+A structured offboarding script for disabling accounts, removing access, and documenting IT actions.
+
+PowerShell Automation User Management
+
+// GITHUB ACTIVITY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true&title_color=00F0FF&icon_color=FF007A&text_color=EAEAEA&bg_color=050505" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=EAEAEA&bg_color=050505" /> </div>
+// CONTACT
+<div align="center">
+
+
+
+
+
+
+</div>
+<div align="center">
+built with caffeine, curiosity, and controlled chaos.
+</div> ```
