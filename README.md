@@ -13,6 +13,16 @@
 </div>
 ---
 
+---
+
+## // CONTRIBUTION GRAPH
+
+<div align="center">
+
+![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## // SYSTEM STATUS
 
 ```txt
