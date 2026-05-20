@@ -1,8 +1,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://i.imgur.com/a/cPZ8pCP" width="100%">
+  <img src="./banner.png" width="100%" />
 </p>
+
+
+<h1 align="center">ERIKA MAILOW</h1>
 
 </div>
 
