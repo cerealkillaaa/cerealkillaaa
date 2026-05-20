@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://www.canva.com/design/DAHKEv6T5v0/HsnXRAnfbPkBN4PNtDPLxA/view?utm_content=DAHKEv6T5v0&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">
+
 
 <img src="./assets/banner.png" width="100%" alt="Banner"/>
 
